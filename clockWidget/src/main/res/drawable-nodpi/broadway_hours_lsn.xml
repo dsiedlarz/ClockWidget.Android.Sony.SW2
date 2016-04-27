@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Defines the least significant hour number using a level-list of drawables
+that can be referenced when creating clocks. -->
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/d0" />
+    <item android:drawable="@drawable/d1" />
+    <item android:drawable="@drawable/d2" />
+    <item android:drawable="@drawable/d3" />
+    <item android:drawable="@drawable/d4" />
+    <item android:drawable="@drawable/d5" />
+    <item android:drawable="@drawable/d6" />
+    <item android:drawable="@drawable/d7" />
+    <item android:drawable="@drawable/d8" />
+    <item android:drawable="@drawable/d9" />
+</level-list>

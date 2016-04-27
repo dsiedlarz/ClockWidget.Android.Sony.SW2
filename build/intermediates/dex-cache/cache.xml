@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dawid\Desktop\GIT\ClockWidget\clockWidget\build\intermediates\exploded-aar\ClockWidget\smartExtensionAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2b190f407255450549b465d33b9d414c518de796">
+        <dex dex="C:\Users\Dawid\Desktop\GIT\ClockWidget\clockWidget\build\intermediates\pre-dexed\debug\classes-07b718e2a34ac796f62672d464494a37cf55d07f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dawid\Desktop\GIT\ClockWidget\clockWidget\build\intermediates\exploded-aar\ClockWidget\smartExtensionUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="abe75a955c990c573507fb02c76fff272b568d61">
+        <dex dex="C:\Users\Dawid\Desktop\GIT\ClockWidget\clockWidget\build\intermediates\pre-dexed\debug\classes-77a7dbcb7644fa06d4cc26f8c3e6bfd451840442.jar" />
+    </item>
+
+</items>
